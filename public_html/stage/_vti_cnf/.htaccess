@@ -1,0 +1,11 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName wintrisstech.org
+AuthUserFile /home/wintris/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/wintris/public_html/_vti_pvt/service.grp

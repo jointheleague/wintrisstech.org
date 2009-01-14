@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^wintresstech.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.wintresstech.com$
+RewriteRule ^(.*)$ http://wintrisstech.org [R=301,L]
+

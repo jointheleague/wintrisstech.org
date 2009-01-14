@@ -1,0 +1,22 @@
+
+RewriteEngine on
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName wintrisstech.org
+AuthUserFile /home/wintris/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/wintris/public_html/_vti_pvt/service.grp
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^iaroc/?$ http://216.39.226.150/iaroc [R=301,L]
+
