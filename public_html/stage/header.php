@@ -19,8 +19,8 @@
         <a href="videos.php">
           <img src="images/SuccessStoryVideos.jpg" alt="Success Story Videos" style="margin-top:10px;" />
         </a>
-        <a href="summercamp.php">
-          <img src="images/summercampbutton.gif" alt="Summer Camp" style="margin-top:10px;" />
+        <a href="iaroc2009.php">
+          <img src="images/contestlogo.jpg" alt="Robot Contest" style="margin-top:10px;" />
         </a>
       </div>
     </div>
@@ -28,7 +28,7 @@
 	<h2>Announcements:</h2>
 	<ul>
 	<li>
-		<a href="http://www.flickr.com/photos/7442834@N02/sets/72157605813005035/">Photos of robotics competition</a>
+	    <a href="iaroc2009.php">IARoC Robotics Competition 2009</a>
 	</li>
 	</ul>
 

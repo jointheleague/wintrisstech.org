@@ -1,0 +1,16 @@
+
+html_files = [ "index", "iaroc2009" ]
+
+html_files.each do |f|
+  
+  file "#{f}.html" => ["#{f}.php", "header.php", "footer.php" ] do
+    puts "Generating #{f}.html from #{f}.php."
+    sh "php #{f}.php > #{f}.html"
+  end
+
+  task :default => "#{f}.html"
+  
+  task :clean do
+    sh "rm -vf #{f}.html"
+  end
+end
