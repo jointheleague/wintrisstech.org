@@ -1,0 +1,4 @@
+You will need to install lighttpd and php using MacPorts.
+
+`sudo port install lighttpd`
+`sudo port install php5 +fastcgi`
