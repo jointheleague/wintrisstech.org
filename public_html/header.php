@@ -27,6 +27,14 @@
 	<div class="content">
 	<h2>Announcements:</h2>
 	<ul>
+	  <li>
+	    <a href="http://metron3d.com">
+	      <img src="images/metron3d.png"/>
+	      <br/>
+	      See our new android phone application
+	    </a>
+	  </li>
+	  <li><!-- blank line -->&nbsp;</li>
 	<li>
 	    <a href="iaroc2009.php">IARoC Robotics Competition 2009</a>
 	</li>
