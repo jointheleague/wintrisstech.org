@@ -5,6 +5,24 @@
 	  <div style="text-align:left;float:left;width:340px;"> 
 		<h3>News Coverage</h3>
 		<table width="100%" border="0" cellpadding="2">
+  		<tr>
+  		  <td><a href="images/news/2009-01-22-fathers-and-sons.pdf"> <img src="images/news/2009-01-22-fathers-and-sons_t.jpg" border="0" /></a></td>
+            <td style="vertical-align:middle;"><a href="images/news/2009-01-22-fathers-and-sons.pdf">
+              Rancho Santa Fe Review <br />
+              Januray 2009</a> (pdf)</td>
+  		  </tr>
+    		<tr>
+    		  <td><a href="images/news/2008-07-11-TammyDelMarTimesAlice.pdf"> <img src="images/news/2008-07-11-TammyDelMarTimesAlice_t.jpg" border="0" /></a></td>
+              <td style="vertical-align:middle;"><a href="images/news/2008-07-11-TammyDelMarTimesAlice.pdf">
+                Del Mar Times <br />
+                July 2008</a> (pdf)</td>
+    		  </tr>
+      		<tr>
+      		  <td><a href="images/news/SeanCVnews.pdf"> <img src="images/news/SeanCVnews_t.jpg" border="0" /></a></td>
+                <td style="vertical-align:middle;"><a href="images/news/SeanCVnews.pdf">
+                  Caramel Valley News<br />
+                  </a> (pdf)</td>
+      		  </tr>
 		<tr>
 		  <td><a href="images/newsnotes01.jpg"> <img src="images/news/news_clip_carmel.jpg" border="0" /></a></td>
           <td style="vertical-align:middle;"><a href="images/news/CarmelValleyNewsCrop.pdf">Caramel Valley 
