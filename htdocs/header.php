@@ -8,6 +8,9 @@
  <script src="javascript/scripts.js" type="text/javascript"></script>
 </head>
   <body>
+    <div id="donate">
+      <object type="application/x-shockwave-flash" allowScriptAccess="always" allowNetworking="all" height="230" width="150" align="middle" data="http://www.firstgiving.com/widgets/fgwidget.swf" flashvars="EggId=733459"><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.firstgiving.com/widgets/fgwidget.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="flashvars" value="EggId=733459" /><param name="bgcolor" value="#ffffff" /></object>
+    </div>
   <div id="container">
     <div id="head">
       <img src="images/header.jpg" alt="Wintriss Technical Schools, inc.  A not-for-profit, public benefit institution, Changing kid's lives with Java TM Computer Programming" class="right" width="243" height="100" />
