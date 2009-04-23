@@ -64,6 +64,11 @@
 
 	  </div>
 	  <div style="text-align:left;float:right;width:300px;"> 
+    <h3>Student Project Videos</h3>
+    <p>
+      <object width="425" height="261"><param name="movie" value="http://www.youtube.com/v/hnuvWEghhao&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hnuvWEghhao&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="261"></embed></object>
+    </p>
+    <br/>
 		<h3>Success Story Videos</h3>
 		<br />
 		<object width="425" height="344">
