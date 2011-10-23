@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{ title }}</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta charset="utf-8"/>
+  
+  <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+    <link rel="stylesheet" href="ie7.css" type="text/css" media="screen" />
+  <![endif]-->
+  
+  <link rel="stylesheet" href="{{ site.url }}/style.css" type="text/css" media="screen" />
+</head>
+
+<body>
+  <header>
+    <h1><a class="introlink" href="{{ site.url }}">{{ page.title }}</a></h1>
+    <nav>
+      <ul>
+        <li><a class="introlink anchorLink" href="{{ site.url }}">Home</a></li>
+        <li><a class="contactlink anchorLink" href="{{ site.url }}/contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="mainContent">
+    {{ content }}
+  </section>
+
+  <footer>
+    <ul>
+      <li><a href="http://inspectelement.com/articles/code-a-backwards-compatible-one-page-portfolio-with-html5-and-css3">Back to the Tutorial on Inspect Element</a></li>
+    </ul>
+  </footer>	
+
+  {% include google_analytics.html %}
+</body>
+
+</html>

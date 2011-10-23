@@ -1,0 +1,4 @@
+url: "http://localhost:4000"
+exclude: [ "tasks", "Rakefile" ]
+auto: true
+google_analytics_id: ~

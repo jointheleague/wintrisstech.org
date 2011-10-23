@@ -19,7 +19,7 @@ end
 properties = YAML::load(properties_yaml)
 
 # process the files
-files = [ "pom.xml" ]
+files = [ "tasks/deploy.rake" ]
 files.each do |file|
   puts "Processing #{file}..."
   # read the file
