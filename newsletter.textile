@@ -1,0 +1,13 @@
+---
+layout: default
+title: Newsletters
+---
+
+h1. {{ page.title }}
+
+"Subscribe to our newsletter":http://eepurl.com/dOpoc
+
+h3. Recent editions
+
+* "November Newsletter":http://us1.campaign-archive1.com/?u=7b814a9c5de87bad1812ce39c&id=a57cd21179: Our Sixth Year, New Six-Week Programming Workshops, Student Project: Neural Networks, Robotic Education Expo at Cuyamaca College, "Go Greener" Video Contest, About Your Instructors, Stanford offers free college-level classes
+

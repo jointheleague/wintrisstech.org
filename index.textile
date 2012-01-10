@@ -1,12 +1,17 @@
 ---
 layout: default
-title: My Website
 ---
 
-h1. {{ page.title }}
+h1. Wintriss Technical Schools
 
-h3. Lorem ipsum sed aliquam
+Wintriss Technical Schools (WTS) is unique in its mission of *teaching computer programming skills to grade and middle school children*.  "Read more about us here.":about.html
 
-Etiam vehicula, augue eu ultricies dictum, orci nisi suscipit sem, nec sollicitudin neque est ac massa. Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat. Nulla lobortis bibendum magna. Nulla adipiscing justo eu erat.
+h3. For Students (Grades 5-12)
 
-Phasellus elementum nibh vel odio. Proin orci nulla, viverra tempus, pharetra ut, varius nec, justo. Donec euismod molestie erat.
+Our "Programming Workshops":workshops.html are a great way to get started.  Each workshop runs for five or six 2-hour sessions.  Find out more about what you can learn and when workshops are being offered on our "workshops page":workshops.html.
+
+We also offer individual mentoring to give you more personalized instruction in computer programming.  In our mentoring program, you will have the guidance of a professional Java programmer as you design and create custom computer games.  There is currently a wait list for our mentoring program.  "Contact us":contact.html for more information.
+
+h3. For Java Programmers
+
+If you're a professional Java programmer, volunteering for Wintriss Tech offers a unique opportunity to share your love of programming and computer science with while making a positive difference in kids' lives.  "Contact us":contact.html details about how you can get involved.

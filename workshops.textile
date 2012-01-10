@@ -1,0 +1,38 @@
+---
+layout: default
+title: Kids' Programming Workshops
+---
+
+h1. Kids' Programming Workshops
+
+Computer programming workshops at Wintriss Tech are designed to give kids a fun, positive experience.
+
+h3. Registration
+
+"Click here to register for an upcoming workshop.":https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dHMzXzRYT0FyRWkxNFJ2UDBuZHRMRnc6MQ#gid=0
+
+h3. Upcoming workshops
+
+* Jan 22, 29, Feb 5, 12, 19, 26  Sun 2-4pm:  "Girls Rule: Intro to Java":#girls_intro . $300.  Girls, grades 7-12.  (Grades 5-6 may be accepted with special permission.)
+* Jan 23, 30, Feb 6, 13, 20, 27  Mon 6-8pm: "Advanced Game Programming".  $300.  Prerequisite: Student has completed Intro to Java and is comfortable creating their own simple Java projects at home (or by special permission).
+* Feb 12, 19, 26, Mar 4, 11, 18  Sun 11am-1pm:  "Intro to Java":#intro.  $300.  Grades 5-7 * Change in day/time.
+* If there is a workshop your student would like to take this is not currently scheduled, please contact us.
+
+All workshops are held at "12625 High Bluff Drive #108C, San Diego, CA 92130":http://g.co/maps/aaqgf.
+
+h1. Workshop descriptions
+
+h3(#intro). Intro to Java
+
+Learn how easy programming can be. We'll complete two fun projects that you'll be able to take home with you, and you'll learn all you need to know to start writing your own computer games.
+
+In Intro to Java, students will learn:
+
+* How to download and install NetBeans (a free Java programming tool)
+* How to use NetBeans to create simple Java games
+* How simple mathematics, logic and design principles apply to programming computer games
+* Games will include graphics drawn from basic shapes, images, controls using the mouse and keyboard, and animations.
+
+h3(#girls_intro). Girls Rule: Intro to Java
+
+A special session of our Intro to Java workshop for girls only. This workshop is assisted by some of our current girl students.

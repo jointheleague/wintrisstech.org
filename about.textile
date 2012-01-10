@@ -1,0 +1,49 @@
+---
+layout: default
+title: About Wintriss Tech
+---
+
+h1. Wintriss Technical Schools
+
+h2. A San Diego, non-profit, public benefit, 501(c)(3) institution
+
+Wintriss Technical Schools (WTS) is unique in its mission of *teaching computer programming skills to grade and middle school children*, preparing them to fill critical shortages of computer programmers expected within the next ten years. To maintain the U.S. position of scientific leadership, the children of today will need to know how to write, as well as use, the complex software of tomorrow. WTS trains its students in writing computer programs using the popular JAVA language and object-oriented programming techniques in a fun-filled environment. Our goal is to *introduce kids to advanced computer programming concepts at an early age* that will prepare them to successfully compete for college and for well-paying jobs.
+
+WTS is the first organization of its type to teach Java to children in grade schools and middle schools. Our objective is to prove this concept and *expand the teaching of Object Oriented programming* broadly. The private school utilizes volunteer Java professionals as teachers and relies on individual donations for its programs. No student is turned away because of financial hardship.
+
+Since founding in 2006, over one hundred San Diego children have attended WTS or are continuing students. Both parents and children have overwhelmingly expressed excitement about the program and students look forward eagerly to the fun-filled classes writing computer games, a much welcomed change from playing computer games.
+As of 2011, four students have passed the Computer Science Advanced Placement Examination (CS AP Exam) which is given in Java...one in the eight grade, one in the ninth grade, and two in the tench grade.
+
+Your "donations":donations.html will be used solely to fund school operations, programs and scholarships.
+
+h3. Our Mission&mdash; Changing Lives
+
+!i/mission01.jpg!
+
+Writing computer programs can be a very satisfying personal experience and lead to a rewarding high-tech career. We believe that children can learn computer programming at grade and middle school ages, and that their lives can be changed in a positive way through the self-confidence gained from the mastery of computer programming skills and programming as an after-school activity. The skills learned at WTS will equip children to compete in an increasingly flat world and prepare them for high-paying jobs that await both High School and College graduates in computer programming.
+
+h3. U.S. Technology Leadership
+
+Only 26% of U.S. high schools require computer programming courses, and computer programming instruction is not offered in public grade or middle schools. We are unique in our approach to teaching children these skills before they typically get turned off to science in their early teens. This is a time when girls are particularly susceptible to opt-out. U.S. technology leadership is at risk, and a shortage of one million programmers is predicted over the next ten years.
+
+h3. Customizable Approach
+
+!i/mission02.jpg!
+
+We offer flexible, individually customized learning schedules in a small classroom setting. Transportation can be arranged and tuition assistance may be available based on family needs.
+
+Classes are conducted in a safe, modern office building facility, where students are able to work on powerful, state-of-the-art Apple iMac computers. We keep students interested, stimulate their imaginations and turn on their creative talents by using real-life, object-oriented programming techniques to write exciting game programs like Pong and Asteroids.  Students are also invited to enter the annual WTS-sponsored international Autonomous Robot Competition (iARoC) that is held at the San Diego County Fairground each summer.
+
+h3. Changing the Future
+
+Learning a computer programming language at an early age will equip a young person with a special, highly sought after skill and open new paths for successful study and profitable and satisfying career choices.  The future is wide open for kids whose imaginations we can capture and then point them towards careers in computer science  The world is becoming increasingly dependent upon this important profession.
+
+<notextile>
+<cite>Dr. Bob Shillman, Chairman and CEO, Cognex Corporation</cite>
+<blockquote>Finally someone has started to realize that our kids can, and want to, learn high-tech subjects in the earlier grades. WTS does a great job making computer programming fun. My teenage son attends and loves it.</blockquote>
+
+<cite>Kevin Carroll, Executive Director, American Electronics Association</cite>
+<blockquote>As the United States begins to lose its leadership in the Technology Industry, we are in dire need of efforts such as those being put forward by WTS. I would encourage strong support for this worthy effort.</blockquote>
+</notextile>
+
+!i/iaroc.jpg!

@@ -1,0 +1,6 @@
+---
+layout: default
+title: Class Schedule
+---
+
+<iframe id="1887234132" src="http://www.google.com/calendar/embed?src=vic.wintriss@gmail.com&amp;color=%23668CB3&amp;mode=MONTH&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=en" title="vic.wintriss@gmail.com" width="100%" height="600" frameborder="0" scrolling="no"></iframe>

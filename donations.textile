@@ -1,0 +1,60 @@
+---
+layout: default
+title: Donations
+---
+
+h1. Donations
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="11201941">
+<center>
+  <input style="width: 147px;" type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" width="147" height="47" /><br/>
+  Donate via PayPal
+</center>
+</form>
+
+If you would like us to contact you about making a donation through some other method, please fill out the "form below":#form and we will get in touch with you.
+
+h3. List of donors
+
+* Craig Georgi
+* Dr. Bob Shillman
+* Cognex Corporation
+* Larry Evans
+* Banner Engineering
+* Rocco Fabiano
+* Victor E. Clarke
+* Gary Galimidi
+* Gables Engineering Corporation
+* Dana Blankenship
+* The Blanchard Foundation
+* Vic and Diane Wintriss
+* Randy Moore
+* Shannon and GT Frost
+* Charles and Katrin Gillespie
+* Steve and Lori Allen
+* Eamon and Susan Callahan
+* Ron Brown
+* Breezeaire
+* Cynthia and Rod Shrock
+* Asymtek
+* Dixieline
+* Howard and Donna Dixon
+* Sun Microsystems
+* Mike and Marie Huff
+* Ping Li and Jim Umen
+* Carole and Mark Baratti
+* Valerie and Gary Woodnut
+* Stanley Kurdziel
+* Aaron VonderHaar
+* Resmed
+* CareFusion
+* Scott Leishman
+* Jasmine Fitzwilliam
+* Danielle Strachman
+* Joe Papa
+
+h3(#form). Donations contact form
+
+<iframe src="http://spreadsheets.google.com/spreadsheet/embeddedform?bc=transparent&amp;f=%2522Lucida%2BGrande%2522%252C%2522Lucida%2BSans%2BUnicode%2522%252Csans-serif&amp;hl=en&amp;htc=%2523666666&amp;key=0AkH9gd1oOFDddDAzdFMxZlVxa1BjMDduRTNlYVpQX0E&amp;lc=%252324355d&amp;pli=1&amp;tc=%2523333333&amp;ttl=0" width="100%" height="900" title="Wintriss Technical Schools Donations" allowtransparency="true" frameborder="0" marginheight="0" marginwidth="0" id="1931247818"> </iframe>
