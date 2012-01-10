@@ -36,7 +36,7 @@ A {
 	}
 
 H1, H3, H4, H5, H6 {
-	background : url(../i/ai4.png) no-repeat 0 7px;
+	background : url(i/ai4.png) no-repeat 0 7px;
 	border-bottom : 1px solid #CCC;
 	color : #666;
 	font-weight : bold;
@@ -44,7 +44,7 @@ H1, H3, H4, H5, H6 {
 	padding : 0 0 0 25px;
 	}
 	H1 {
-		background : url(../i/ai4.png) no-repeat 0 6px;
+		background : url(i/ai4.png) no-repeat 0 6px;
 		font-size : 15px;
 	}
 	H2 {
@@ -52,7 +52,7 @@ H1, H3, H4, H5, H6 {
 		margin : 0 0 20px 0;
 	}
 	H3 {
-		background : url(../i/ai5.png) no-repeat 0 7px;
+		background : url(i/ai5.png) no-repeat 0 7px;
 	}
 	H3, H4, H5, H6 {
 		font-size : 13px;
@@ -66,7 +66,7 @@ SUP {
 header {
 	-moz-border-radius : 4px;
 	-webkit-border-radius : 4px;
-	background : #0098CC url(../i/hd.jpg) no-repeat top left;
+	background : #0098CC url(i/hd.jpg) no-repeat top left;
 	height : 200px;
 	margin : 0 0 10px 0;
 	padding : 10px 10px;
@@ -279,7 +279,7 @@ article ul, aside ul {
 		margin : 0 0 20px 23px;
 	}
 	article ul li {
-		background : url(../i/ai2.png) no-repeat 0 8px;
+		background : url(i/ai2.png) no-repeat 0 8px;
 		padding : 0 0 0 17px;
 	}
 
@@ -314,7 +314,7 @@ nav ul {
 	list-style : none;
 	}
 	nav li {
-		background : url(../i/ai1.png) no-repeat 0 8px;
+		background : url(i/ai1.png) no-repeat 0 8px;
 		padding : 0 0 0 15px;
 	}
 	nav li ul, aside li ul li ul {
@@ -327,10 +327,10 @@ nav ul {
 		font-size : 10px;
 		}
 	nav li li li, aside li.active li li {
-		background : url(../i/ai8.png) no-repeat 0 10px;
+		background : url(i/ai8.png) no-repeat 0 10px;
 	}
 	nav li.active, aside li.active li {
-		background : url(../i/ai2.png) no-repeat 0 8px;
+		background : url(i/ai2.png) no-repeat 0 8px;
 	}
 
 /* Gallery */
