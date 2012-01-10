@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>{{ title }}</title>
+  <title>{{ page.title }}</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta charset="utf-8"/>
   
@@ -18,27 +18,46 @@
 </head>
 
 <body>
-  <header>
-    <h1><a class="introlink" href="{{ site.url }}">{{ page.title }}</a></h1>
-    <nav>
-      <ul>
-        <li><a class="introlink anchorLink" href="{{ site.url }}">Home</a></li>
-        <li><a class="contactlink anchorLink" href="{{ site.url }}/contact.html">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+  <div id="a">
+    <header>
+      <a href="/" title="Go to Homepage"><strong>OWMX-3</strong> HTML5 &amp; CSS3</a>
+      <p>This W3C-compliant, CSS-based website template has a Creative Commons Attribution-Share Alike 3.0 Unported License.</p>
+    </header>
+    <div id="b">
+      <article>
+        {{ content }}
+      </article>
+      <aside>
+        {% include sidebar.html %}
+      </aside>
+    </div>
+    <footer>
+      <!-- 
+      ### LICENSE
+      ############
 
-  <section class="mainContent">
-    {{ content }}
-  </section>
+      This W3C-compliant, CSS-based website template has a 
+      Creative Commons Attribution-Share Alike 3.0 Unported License.
 
-  <footer>
-    <ul>
-      <li><a href="http://inspectelement.com/articles/code-a-backwards-compatible-one-page-portfolio-with-html5-and-css3">Back to the Tutorial on Inspect Element</a></li>
-    </ul>
-  </footer>	
+      http://creativecommons.org/licenses/by-sa/3.0/
+
+      In short, you must:
+      + keep the credit links in the footer intact
+      + not change the license (e.g. copywriting my work)
+
+
+      ### BREAKING THE LICENSE
+      #########################
+
+      Breaking the rules of the license will result in me initiating
+      the necessary legal procedures and publicly shaming you here:
+
+      http://owmx.com/hall-of-shame/
+      -->
+      <p>Template Design &amp; Markup by <a href="http://jabz.net/contact/jonas-jacek">Jonas Jacek</a> | <a href="http://owmx.com/" title="Free HTML5 &amp; CSS3 Web Templates">Free Web Templates</a>.</p>
+    </footer>
+  </div>
 
   {% include google_analytics.html %}
 </body>
-
 </html>

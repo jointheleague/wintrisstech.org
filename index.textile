@@ -3,7 +3,7 @@ layout: default
 title: My Website
 ---
 
-h2. {{ title }}
+h1. {{ page.title }}
 
 h3. Lorem ipsum sed aliquam
 
