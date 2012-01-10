@@ -1,4 +1,4 @@
-url: "http://localhost:4000"
+url: "http://wintrisstech.github.com/wintrisstech.org"
 exclude: [ "tasks", "Rakefile" ]
 auto: true
 google_analytics_id: ~
