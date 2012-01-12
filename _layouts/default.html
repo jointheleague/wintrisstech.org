@@ -21,7 +21,7 @@
   <div id="a">
     <header 
       {% if page.header_image %}
-      style="background:url(i/{{ page.header_image }}.jpg)"
+      style="background:url({{ site.url }}/i/{{ page.header_image }}.jpg)"
       {% endif %}
       >
       <a href="{{ site.url }}"><img style="margin-bottom: -6px" src="{{ site.url }}/i/logo_25.png"/><b>Wintriss Technical Schools</b></a>
