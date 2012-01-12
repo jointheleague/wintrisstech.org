@@ -3,6 +3,8 @@ layout: default
 header_image: hd_neil
 ---
 
+<div class="fb-like" data-href="https://www.facebook.com/pages/Wintriss-Technical-Schools/201484783248391" data-send="true" data-width="450" data-show-faces="true"></div>
+
 h1. Wintriss Technical Schools
 
 Wintriss Technical Schools (WTS) is unique in its mission of *teaching computer programming skills to grade and middle school children*.  "Read more about us here.":about.html
