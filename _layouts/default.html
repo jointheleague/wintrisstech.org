@@ -19,8 +19,12 @@
 
 <body>
   <div id="a">
-    <header>
-      <a href="{{ site.url }}"><b>Wintriss Technical Schools</b></a>
+    <header 
+      {% if page.header_image %}
+      style="background:url(i/{{ page.header_image }}.jpg)"
+      {% endif %}
+      >
+      <a href="{{ site.url }}"><img style="margin-bottom: -6px" src="{{ site.url }}/i/logo_25.png"/><b>Wintriss Technical Schools</b></a>
       <p>Changing kids' lives with Java Computer Programming</p>
     </header>
     <div id="b">

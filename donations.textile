@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Donations
+header_image: hd_goldrush
 ---
 
 h1. Donations

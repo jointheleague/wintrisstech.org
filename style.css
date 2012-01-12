@@ -108,8 +108,8 @@ article {
 		margin : 0 0 20px 0;
 	}
 	article img {
-		float : left;
-		margin : 6px 10px 0 0;
+		float : right;
+		margin : 6px 0 0 10px;
 	}
 
 /* Highlighted Paragraphs */

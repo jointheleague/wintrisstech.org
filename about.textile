@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Wintriss Tech
+header_image: hd_karina
 ---
 
 h1. Wintriss Technical Schools
@@ -18,9 +19,7 @@ Your "donations":donations.html will be used solely to fund school operations, p
 
 h3. Our Mission&mdash; Changing Lives
 
-!i/mission01.jpg!
-
-Writing computer programs can be a very satisfying personal experience and lead to a rewarding high-tech career. We believe that children can learn computer programming at grade and middle school ages, and that their lives can be changed in a positive way through the self-confidence gained from the mastery of computer programming skills and programming as an after-school activity. The skills learned at WTS will equip children to compete in an increasingly flat world and prepare them for high-paying jobs that await both High School and College graduates in computer programming.
+!i/mission01.jpg! Writing computer programs can be a very satisfying personal experience and lead to a rewarding high-tech career. We believe that children can learn computer programming at grade and middle school ages, and that their lives can be changed in a positive way through the self-confidence gained from the mastery of computer programming skills and programming as an after-school activity. The skills learned at WTS will equip children to compete in an increasingly flat world and prepare them for high-paying jobs that await both High School and College graduates in computer programming.
 
 h3. U.S. Technology Leadership
 
@@ -28,22 +27,19 @@ Only 26% of U.S. high schools require computer programming courses, and computer
 
 h3. Customizable Approach
 
-!i/mission02.jpg!
-
-We offer flexible, individually customized learning schedules in a small classroom setting. Transportation can be arranged and tuition assistance may be available based on family needs.
+!i/mission02.jpg! We offer flexible, individually customized learning schedules in a small classroom setting. Transportation can be arranged and tuition assistance may be available based on family needs.
 
 Classes are conducted in a safe, modern office building facility, where students are able to work on powerful, state-of-the-art Apple iMac computers. We keep students interested, stimulate their imaginations and turn on their creative talents by using real-life, object-oriented programming techniques to write exciting game programs like Pong and Asteroids.  Students are also invited to enter the annual WTS-sponsored international Autonomous Robot Competition (iARoC) that is held at the San Diego County Fairground each summer.
 
 h3. Changing the Future
 
-Learning a computer programming language at an early age will equip a young person with a special, highly sought after skill and open new paths for successful study and profitable and satisfying career choices.  The future is wide open for kids whose imaginations we can capture and then point them towards careers in computer science  The world is becoming increasingly dependent upon this important profession.
+!i/iaroc.jpg! Learning a computer programming language at an early age will equip a young person with a special, highly sought after skill and open new paths for successful study and profitable and satisfying career choices.  The future is wide open for kids whose imaginations we can capture and then point them towards careers in computer science  The world is becoming increasingly dependent upon this important profession.
 
 <notextile>
-<cite>Dr. Bob Shillman, Chairman and CEO, Cognex Corporation</cite>
+<cite clear="both">Dr. Bob Shillman, Chairman and CEO, Cognex Corporation</cite>
 <blockquote>Finally someone has started to realize that our kids can, and want to, learn high-tech subjects in the earlier grades. WTS does a great job making computer programming fun. My teenage son attends and loves it.</blockquote>
 
 <cite>Kevin Carroll, Executive Director, American Electronics Association</cite>
 <blockquote>As the United States begins to lose its leadership in the Technology Industry, we are in dire need of efforts such as those being put forward by WTS. I would encourage strong support for this worthy effort.</blockquote>
 </notextile>
 
-!i/iaroc.jpg!

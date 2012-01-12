@@ -1,5 +1,6 @@
 ---
 layout: default
+header_image: hd_neil
 ---
 
 h1. Wintriss Technical Schools

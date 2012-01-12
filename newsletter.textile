@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Newsletters
+header_image: hd_fuzzyw
 ---
 
 h1. {{ page.title }}

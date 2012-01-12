@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kids' Programming Workshops
+header_image: hd_classroom
 ---
 
 h1. Kids' Programming Workshops
