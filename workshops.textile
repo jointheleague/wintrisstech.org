@@ -14,8 +14,8 @@ h3. Registration
 
 h3. Upcoming workshops
 
-* Jan 22, 29, Feb 5, 12, 19, 26  Sun 2-4pm:  "Girls Rule: Intro to Java":#girls_intro . $300.  Girls, grades 7-12.  (Grades 5-6 may be accepted with special permission.)
-* Jan 23, 30, Feb 6, 13, 20, 27  Mon 6-8pm: "Advanced Game Programming".  $300.  Prerequisite: Student has completed Intro to Java and is comfortable creating their own simple Java projects at home (or by special permission).
+* Jan 22, 29, Feb 5, 12, 19, 26  Sun 2-4pm:  "Intro to Java":#intro. $300.  Grades 7-12.
+* Jan 23, 30, Feb 6, 13  Mon 6-8pm: "Advanced Game Programming":#adv.  $200.  Prerequisite: Student has completed Intro to Java and is comfortable creating their own simple Java projects at home (or by special permission).
 * Feb 12, 19, 26, Mar 4, 11, 18  Sun 11am-1pm:  "Intro to Java":#intro.  $300.  Grades 5-7 * Change in day/time.
 * If there is a workshop your student would like to take this is not currently scheduled, please contact us.
 
@@ -30,10 +30,21 @@ Learn how easy programming can be. We'll complete two fun projects that you'll b
 In Intro to Java, students will learn:
 
 * How to download and install NetBeans (a free Java programming tool)
-* How to use NetBeans to create simple Java games
+* The use of the Java Swing API to create simple Java games
 * How simple mathematics, logic and design principles apply to programming computer games
 * Games will include graphics drawn from basic shapes, images, controls using the mouse and keyboard, and animations.
+* Basic variables, and control statements using arithmetic and boolean logic
 
 h3(#girls_intro). Girls Rule: Intro to Java
 
 A special session of our Intro to Java workshop for girls only. This workshop is assisted by some of our current girl students.
+
+h3(#adv). Advanced Game Programming
+
+A continuation of the topics taught in Intro to Java.  In this workshop we will introduce more complex computer science concepts to show students how to overcome some of the limitations they faced in their Intro to Java game projects.
+
+In Advanced Game Programming, students will learn:
+
+* Arrays and lists
+* Loop control structures (for loops)
+* Further understanding of how logic, algebra and geometry apply to programming computer games
