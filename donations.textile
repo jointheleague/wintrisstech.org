@@ -11,7 +11,7 @@ h1. Donations
 If you would like us to contact you about making a donation through some other method, please fill out the "form below":#form and we will get in touch with you.
 
 h3. List of donors
-
+* Dr. Sandra Coufal
 * Craig Georgi
 * Dr. Bob Shillman
 * Cognex Corporation
