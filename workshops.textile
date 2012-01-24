@@ -14,8 +14,6 @@ h3. Registration
 
 h3. Upcoming workshops
 
-* Jan 22, 29, Feb 5, 12, 19, 26  Sun 2-4pm:  "Intro to Java":#intro. $300.  Grades 7-12.
-* Jan 23, 30, Feb 6, 13  Mon 6-8pm: "Advanced Game Programming":#adv.  $200.  Prerequisite: Student has completed Intro to Java and is comfortable creating their own simple Java projects at home (or by special permission).
 * Feb 12, 19, 26, Mar 4, 11, 18  Sun 11am-1pm:  "Intro to Java":#intro.  $300.  Grades 5-7 * Change in day/time.
 * If there is a workshop your student would like to take this is not currently scheduled, please contact us.
 
