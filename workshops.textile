@@ -12,7 +12,7 @@ h3. Registration
 
 "Click here to register for an upcoming workshop.":https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dHMzXzRYT0FyRWkxNFJ2UDBuZHRMRnc6MQ#gid=0
 
-h3. Upcoming workshops
+h3. Upcoming 2012 summer workshops
 
 * July 23-27, August 20-24, 10am-12pm:  "Intro to Java":#intro.  $300.  Grades 5-7 
 * If there is a workshop your student would like to take this is not currently scheduled, please contact us.
