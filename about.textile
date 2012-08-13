@@ -6,7 +6,7 @@ header_image: hd_karina
 
 h1. Wintriss Technical Schools
 
-h2. A San Diego, non-profit, public benefit, 501(c)(3) institution
+h2. A San Diego, non-profit, public benefit, 501(c3) institution
 
 Wintriss Technical Schools (WTS) is unique in its mission of *motivating the next generation of technical leaders through community outreach, education and mentoring by software professionals*, preparing them to fill critical shortages of computer programmers expected within the next ten years. To maintain the U.S. position of scientific leadership, the children of today will need to know how to write, as well as use, the complex software of tomorrow. WTS trains its students in writing computer programs using the popular JAVA language and object-oriented programming techniques in a fun-filled environment. Our goal is to *introduce kids to advanced computer programming concepts at an early age* that will prepare them to successfully compete for college and for well-paying jobs.
 
