@@ -31,6 +31,10 @@ h3. Customizable Approach
 
 Classes are conducted in a safe, modern office building facility, where students are able to work on powerful, state-of-the-art Apple iMac computers. We keep students interested, stimulate their imaginations and turn on their creative talents by using real-life, object-oriented programming techniques to write exciting game programs like Pong and Asteroids.  Students are also invited to enter the annual WTS-sponsored international Autonomous Robot Competition (iARoC) that is held at the San Diego County Fairground each summer.
 
+h3. Volunteer Teachers
+
+All of our teachers are top-notch Java professionals who volunteer their time to teach at Wintriss. You can find out more about them on our "Teachers":teachers.html page.
+
 h3. Changing the Future
 
 !i/iaroc.jpg! Learning a computer programming language at an early age will equip a young person with a special, highly sought after skill and open new paths for successful study and profitable and satisfying career choices.  The future is wide open for kids whose imaginations we can capture and then point them towards careers in computer science  The world is becoming increasingly dependent upon this important profession.
