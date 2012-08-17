@@ -14,8 +14,7 @@ h3. Registration
 
 h3. Upcoming 2012 summer workshops
 
-* August 20-24, 10am-12pm:  "Intro to Java":#intro.  $300.  Grades 5-7 
-* If there is a workshop your student would like to take this is not currently scheduled, please contact us.
+* Fall 2012: Application Development for Android & Introduction to Java; dates TBD
 
 All workshops are held at "12625 High Bluff Drive #108C, San Diego, CA 92130":http://g.co/maps/aaqgf.
 
