@@ -230,14 +230,15 @@ dl.vevent {
 		font-size : 11px;
 	}
 
-/* Forms */
-article form {
+article .form  {
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 	background : #DDD;
 	margin : 0 0 20px;
 	padding : 10px;
 	}
+
+/* Forms */
 	article label {
 		color : #666;
 		display : block;
