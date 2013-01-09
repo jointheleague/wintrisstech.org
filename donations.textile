@@ -49,6 +49,12 @@ h3. List of donors
 * Jasmine Fitzwilliam
 * Danielle Strachman
 * Joe Papa
+* Rod and Cynthia Schrock
+* Ian Brandt
+* Carole and Mark Baratti
+* Cinda Kemper
+* Shirley and Jay Zulueta
+
 
 h3(#form). Donations contact form
 
