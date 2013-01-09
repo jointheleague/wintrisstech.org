@@ -12,9 +12,9 @@ h3. Registration
 
 "Click here to register for an upcoming workshop.":https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dHMzXzRYT0FyRWkxNFJ2UDBuZHRMRnc6MQ#gid=0
 
-h3. Upcoming 2012 summer workshops
+h3. Upcoming 2013 workshops
 
-* Fall 2012: Application Development for Android & Introduction to Java; dates TBD
+* Spring 2013: To be announced
 
 All workshops are held at "12625 High Bluff Drive #108C, San Diego, CA 92130":http://g.co/maps/aaqgf.
 
