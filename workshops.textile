@@ -7,11 +7,11 @@ header_image: hd_classroom
 h1. Kids' Programming Workshops
 
 Computer programming workshops at Wintriss Tech are designed to give kids a fun, positive experience.
-
+---
 h3. Registration
 
 "Click here to register for an upcoming workshop.":https://docs.google.com/spreadsheet/viewform?hl=en_US&formkey=dHMzXzRYT0FyRWkxNFJ2UDBuZHRMRnc6MQ#gid=0
-
+---
 h3. Upcoming 2013 workshops
 
 * Spring 2013: To be announced
