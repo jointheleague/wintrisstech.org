@@ -14,7 +14,7 @@ h3. Registration
 
 h3. Upcoming 2013 workshops
 
-* Spring 2013: To be announced
+* Spring 2013: April 8 - 12, 2013, Introduction to Java Programming
 
 All workshops are held at "12625 High Bluff Drive #106, San Diego, CA 92130":http://g.co/maps/aaqgf.
 
