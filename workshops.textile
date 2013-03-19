@@ -20,12 +20,9 @@ All workshops are held at "12625 High Bluff Drive #106, San Diego, CA 92130":htt
 
 h1. Workshop descriptions
 
-h3(#intro). Intro to Java
-
 Learn how easy programming can be. We'll complete two fun projects that you'll be able to take home with you, and you'll learn all you need to know to start writing your own computer games.
 
-
-Computer programming workshops at Wintriss Tech are designed to give kids a fun, positive experience.
+h3(#intro). Intro to Java
 
 Dive right in to coding with Java, one of the world's most scalable and popular programming languages.  This is a practical and fun workshop with no lecture-style teaching. You will be coding progressively trickier problems for the entire duration of the class. You will learn by doing.
 
