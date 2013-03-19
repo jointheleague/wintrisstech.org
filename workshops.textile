@@ -20,7 +20,7 @@ All workshops are held at "12625 High Bluff Drive #106, San Diego, CA 92130":htt
 
 h1. Workshop descriptions
 
-Learn how easy programming can be. We'll complete two fun projects that you'll be able to take home with you, and you'll learn all you need to know to start writing your own computer games.
+Learn how easy and fun programming can be at one of our week-long workshops.
 
 h3(#intro). Intro to Java
 
