@@ -10,8 +10,7 @@ Computer programming workshops at Wintriss Tech are designed to give kids a fun,
 
 Dive right in to coding with Java, one of the world's most scalable and popular programming languages.  This is a practical and fun workshop with no lecture-style teaching. You will be coding progressively trickier problems for the entire duration of the class. You will learn by doing.
 
-You'll practice the basics of programming - variables, control statements, loops and boolean logic - that will provide you with a solid foundation for tackling new technologies and programming languages. This knowledge will be absorbed by constructively coding for the entire duration of the class. We'll build 2-3 small applications each day that perform animation and user interaction tasks using Java.
-You'll leave with the tools you need to build your own Java applications at home or with your classmates.
+You'll practice the basics of programming - variables, control statements, loops and boolean logic - that will provide you with a solid foundation for tackling new technologies and programming languages. This knowledge will be absorbed by constructively coding for the entire duration of the class. We'll build 2-3 small applications each day that perform animation and user interaction tasks using Java.  You'll leave with the tools you need to build your own Java applications at home or with your classmates.
 
 You don't need to be a techie to enjoy this workshop. Programming is easy and fun.
 
