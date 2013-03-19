@@ -6,13 +6,7 @@ header_image: hd_classroom
 
 h1. Kids' Programming Workshops
 
-Computer programming workshops at Wintriss Tech are designed to give kids a fun, positive experience.
 
-Dive right in to coding with Java, one of the world's most scalable and popular programming languages.  This is a practical and fun workshop with no lecture-style teaching. You will be coding progressively trickier problems for the entire duration of the class. You will learn by doing.
-
-You'll practice the basics of programming - variables, control statements, loops and boolean logic - that will provide you with a solid foundation for tackling new technologies and programming languages. This knowledge will be absorbed by constructively coding for the entire duration of the class. We'll build 2-3 small applications each day that perform animation and user interaction tasks using Java.  You'll leave with the tools you need to build your own Java applications at home or with your classmates.
-
-You don't need to be a techie to enjoy this workshop. Programming is easy and fun.
 
 h3. Registration
 
@@ -30,13 +24,14 @@ h3(#intro). Intro to Java
 
 Learn how easy programming can be. We'll complete two fun projects that you'll be able to take home with you, and you'll learn all you need to know to start writing your own computer games.
 
-In Intro to Java, students will learn:
 
-* How to download and install NetBeans (a free Java programming tool)
-* The use of the Java Swing API to create simple Java games
-* How simple mathematics, logic and design principles apply to programming computer games
-* Games will include graphics drawn from basic shapes, images, controls using the mouse and keyboard, and animations.
-* Basic variables, and control statements using arithmetic and boolean logic
+Computer programming workshops at Wintriss Tech are designed to give kids a fun, positive experience.
+
+Dive right in to coding with Java, one of the world's most scalable and popular programming languages.  This is a practical and fun workshop with no lecture-style teaching. You will be coding progressively trickier problems for the entire duration of the class. You will learn by doing.
+
+You'll practice the basics of programming - variables, control statements, loops and boolean logic - that will provide you with a solid foundation for tackling new technologies and programming languages. This knowledge will be absorbed by constructively coding for the entire duration of the class. We'll build 2-3 small applications each day that perform animation and user interaction tasks using Java.  You'll leave with the tools you need to build your own Java applications at home or with your classmates.
+
+You don't need to be a techie to enjoy this workshop. Programming is easy and fun.
 
 h3(#girls_intro). Girls Rule: Intro to Java
 
