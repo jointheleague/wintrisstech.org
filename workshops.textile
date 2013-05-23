@@ -33,6 +33,8 @@ You don't need to be a techie to enjoy this workshop. Programming is easy and fu
 
 h3(#girls_intro). Girls Rule: Intro to Java
 
+* Summer 2013: August (date to be determined), 2013 1-3 PM Introduction to Java Programming
+
 A special session of our Intro to Java workshop for girls only. This workshop is assisted by some of our current girl students.
 
 h3(#adv). Advanced Game Programming
