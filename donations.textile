@@ -54,6 +54,7 @@ h3. List of donors
 * Carole and Mark Baratti
 * Cinda Kemper
 * Shirley and Jay Zulueta
+* Torrey Pines Bank
 
 
 h3(#form). Donations contact form
