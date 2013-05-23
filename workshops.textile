@@ -16,6 +16,7 @@ h3. Upcoming 2013 workshops
 
 * Summer 2013: July 22-26, 2013, 1-3 PM Introduction to Java Programming
 * Summer 2013: August 19-23, 2013 1-3 PM Introduction to Java Programming
+* Summer 2013: August (date to be determined), 2013 Girls Rule Introduction to Java Programming
 
 All workshops are held at "12625 High Bluff Drive #106, San Diego, CA 92130":http://g.co/maps/aaqgf.
 
@@ -32,8 +33,6 @@ You'll practice the basics of programming - variables, control statements, loops
 You don't need to be a techie to enjoy this workshop. Programming is easy and fun.
 
 h3(#girls_intro). Girls Rule: Intro to Java
-
-* Summer 2013: August (date to be determined), 2013 1-3 PM Introduction to Java Programming
 
 A special session of our Intro to Java workshop for girls only. This workshop is assisted by some of our current girl students.
 
