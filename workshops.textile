@@ -14,7 +14,7 @@ h3. Registration
 
 h3. Upcoming 2013 workshops
 
-* Summer 2013: July 22-26, 2013, 10 AM-12 Noon Introduction to Java Programming
+* Summer 2013: July 22-26, 2013, 10 AM-12 Noon Introduction to Java Programming (SOLD OUT)
 * Summer 2013: July 22-26, 2013, 1-3 PM Introduction to Java Programming (SOLD OUT)
 * Summer 2013: August 19-23, 2013 1-3 PM Introduction to Java Programming (SOLD OUT)
 * Summer 2013: Girls Rule Introduction to Java Programming, August 19-23, 2013, 10 AM-12 Noon 
