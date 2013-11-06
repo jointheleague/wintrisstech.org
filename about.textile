@@ -29,7 +29,7 @@ h3. Customizable Approach
 
 !i/mission02.jpg! We offer flexible, individually customized learning schedules in a small classroom setting. Transportation can be arranged and tuition assistance may be available based on family needs.
 
-Classes are conducted in a safe, modern office building facility, where students are able to work on powerful, state-of-the-art Apple iMac computers. We keep students interested, stimulate their imaginations and turn on their creative talents by using real-life, object-oriented programming techniques to write exciting game programs like Pong and Asteroids.  Students are also invited to enter the annual WTS-sponsored international Autonomous Robot Competition (iARoC) that is held at the San Diego County Fairground each summer.
+Classes are conducted in a safe, modern office building facility, where students are able to work on powerful, state-of-the-art Apple iMac computers. We keep students interested, stimulate their imaginations and turn on their creative talents by using real-life, object-oriented programming techniques to write exciting game programs like Pong and Asteroids.  Students are also invited to enter the annual WTS-sponsored International Autonomous Robot Competition (iARoC) that is held at the Reuben H. Fleet Science Center in Balboa Park each summer.
 
 h3. Volunteer Teachers
 
