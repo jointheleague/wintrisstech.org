@@ -12,8 +12,8 @@ Wintriss Technical Schools (WTS) is unique in its mission of *motivating the nex
 
 WTS is the first organization of its type to teach Java to children in grade schools and middle schools. Our objective is to prove this concept and *expand the teaching of Object Oriented programming* broadly. The private school utilizes volunteer Java professionals as teachers and relies on individual donations for its programs. No student is turned away because of financial hardship.
 
-Since founding in 2006, over one hundred San Diego children have attended WTS or are continuing students. Both parents and children have overwhelmingly expressed excitement about the program and students look forward eagerly to the fun-filled classes writing computer games, a much welcomed change from playing computer games.
-As of 2011, four students have passed the Computer Science Advanced Placement Examination (CS AP Exam) which is given in Java...one in the eight grade, one in the ninth grade, and two in the tench grade.
+Since founding in 2006, over two hundred San Diego children have attended WTS or are continuing students. Both parents and children have overwhelmingly expressed excitement about the program and students look forward eagerly to the fun-filled classes writing computer games, a much welcomed change from playing computer games.
+As of 2013, 15 students have passed the Computer Science Advanced Placement Examination (CS AP Exam) which is given in Java...one in the seventh grade and one in the eighth grade.  One student recently passed the Oracle professional certification exam in the eleventh grade.
 
 Your "donations":donations.html will be used solely to fund school operations, programs and scholarships.
 
