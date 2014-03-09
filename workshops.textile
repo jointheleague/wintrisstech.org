@@ -16,7 +16,7 @@ h3. Upcoming 2014 workshops
 
 * Spring 2014: March 31 - April 4, 2014, 1:00-3:00 PM Introduction to Java Programming
 * Spring 2014: April 7 - April 11, 2014, 1:00-3:00 PM Introduction to Java Programming (Full)
-* Spring 2014: April 7 - April 11, 2014, 10:00-12:00 PM Introduction to Java Programming
+* Spring 2014: April 7 - April 11, 2014, 10:00 AM-12:00 PM Introduction to Java Programming
 * Summer 2014: July 7 - July 11, 2014, 1:00-3:00 PM Introduction to Java Programming
 * Summer 2014: August 4 - August 8, 2014, 1:00-3:00 PM Introduction to Java Programming
 
