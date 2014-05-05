@@ -19,4 +19,8 @@ h3. For Java Programmers
 
 If you're a professional Java programmer, volunteering for Wintriss Tech offers a unique opportunity to share your love of programming and computer science while making a positive difference in kids' lives.  "Contact us":contact.html for details about how you can get involved.
 
+h3. Donate
+
+{% include givebig.html %}
+
 {% include paypal.html %}
