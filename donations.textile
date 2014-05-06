@@ -8,8 +8,6 @@ h1. Donations
 
 {% include givebig.html %}
 
-{% include paypal.html %}
-
 If you would like us to contact you about making a donation through some other method, please fill out the "form below":#form and we will get in touch with you.
 
 h3. List of donors
