@@ -6,7 +6,7 @@ header_image: hd_goldrush
 
 h1. Donations
 
-{% include givebig.html %}
+{% include paypal.html %}
 
 If you would like us to contact you about making a donation through some other method, please fill out the "form below":#form and we will get in touch with you.
 
@@ -15,15 +15,15 @@ h3. List of donors
 * Dr. Sandra Coufal
 * Craig Georgi
 * Dr. Bob Shillman
-* Cognex Corporation
+* [Cognex Corporation](http://www.cognex.com/)
 * Larry Evans
-* Banner Engineering
+* [Banner Engineering](http://www.bannerengineering.com/)
 * Rocco Fabiano
 * Victor E. Clarke
 * Gary Galimidi
-* Gables Engineering Corporation
+* [Gables Engineering Corporation](http://www.gableseng.com/)
 * Dana Blankenship
-* The Blanchard Foundation
+* [The Blanchard Foundation](https://blanchardthefoundation.com/)
 * Vic and Diane Wintriss
 * Randy Moore
 * Shannon and GT Frost
@@ -32,29 +32,28 @@ h3. List of donors
 * Eamon and Susan Callahan
 * Ron Brown
 * Breezeaire
-* Cynthia and Rod Shrock
-* Asymtek
-* Dixieline
+* [Nordson ASYMTEK](http://www.nordson.com/)
+* [Dixieline](http://www.dixieline.com/)
 * Howard and Donna Dixon
-* Sun Microsystems
+* [Sun Microsystems](http://www.sun.com)
 * Mike and Marie Huff
 * Ping Li and Jim Umen
 * Carole and Mark Baratti
 * Valerie and Gary Woodnut
 * Stanley Kurdziel
 * Aaron VonderHaar
-* Resmed
-* CareFusion
+* [ResMed](http://www.resmed.com/)
+* [CareFusion](http://www.carefusion.com/)
 * Scott Leishman
 * Jasmine Fitzwilliam
 * Danielle Strachman
 * Joe Papa
 * Rod and Cynthia Schrock
-* Ian Brandt
+* [Ian Brandt](http://ianbrandt.com)
 * Carole and Mark Baratti
 * Cinda Kemper
 * Shirley and Jay Zulueta
-* Torrey Pines Bank
+* [Torrey Pines Bank](http://www.torreypinesbank.com/)
 
 
 h3(#form). Donations contact form

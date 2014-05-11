@@ -21,4 +21,4 @@ If you're a professional Java programmer, volunteering for Wintriss Tech offers 
 
 h3. Donate
 
-{% include givebig.html %}
+{% include paypal.html %}
