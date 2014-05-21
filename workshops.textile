@@ -16,6 +16,7 @@ h3. Upcoming 2014 workshops
 
 
 * Summer 2014: July 7 - July 11, 2014, 1:00-3:00 PM Introduction to Java Programming (Full)
+* Summer 2014: July 21 - July 25, 2014, 10:00 AM-12:00 PM Introduction to Java Programming
 * Summer 2014: July 21 - July 25, 2014, 1:00-3:00 PM Introduction to Java Programming (Full)
 * Summer 2014: August 4 - August 8, 2014, 10:00 AM-12:00 PM Introduction to Java (GirlsRule Workshop)(Full)
 * Summer 2014: August 4 - August 8, 2014, 1:00-3:00 PM Introduction to Java Programming (Full)
