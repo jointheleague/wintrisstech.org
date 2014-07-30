@@ -25,6 +25,8 @@ h3. Donate
 
 h3. Get Ready
 
-Stay tuned for our new site under our new name:
+<p>Stay tuned for our new site under our new name:</p>
 
-<img src="i/join_the_league.png" alt="Join the League" />
+<p>
+	<img src="i/join_the_league.png" alt="Join the League" />
+</p>
