@@ -22,3 +22,9 @@ If you're a professional Java programmer, volunteering for Wintriss Tech offers 
 h3. Donate
 
 {% include paypal.html %}
+
+h3. Get Ready
+
+Stay tuned for our new site under our new name:
+
+<img src="i/join_the_league.png" alt="Join the League" />
