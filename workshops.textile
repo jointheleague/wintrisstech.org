@@ -14,7 +14,7 @@ h3. Registration
 
 h3. Upcoming 2014 workshops
 
-Check back for November workshops
+Intro to Java Programming Workshop, November 24, 25, 25, 28, 2014, 1:00-3:00 PM, $280
 
 All workshops are held at "12625 High Bluff Drive #106, San Diego, CA 92130"
 
