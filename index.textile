@@ -22,6 +22,7 @@ If you're a professional Java programmer, volunteering for Wintriss Tech offers 
 h3. Donate
 
 {% include paypal.html %}
+<script type="text/javascript"> gnp_user_id = '281482'; gnp_num = '1'; gnp_type = 'stars'; </script> <script src="http://cdn.greatnonprofits.org/js/badge_favorites.js" type="text/javascript"></script>
 
 h3. Get Ready
 
